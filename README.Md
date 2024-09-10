@@ -20,7 +20,9 @@ Conexões e Fios (para conectar o sensor e o módulo XBee ao Raspberry)
 **Python**
 
 sudo apt-get update
+
 sudo apt-get install python3-pip
+
 pip3 install adafruit-circuitpython-bmp280
 
 pip3 install pyserial
